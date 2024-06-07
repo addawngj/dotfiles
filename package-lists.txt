@@ -1,0 +1,17 @@
+i3
+xsettingsd
+ksuperkey
+xfce-polkit
+xfce4-power-manager
+xorg-xsetroot
+feh
+dunst
+playerctl
+rofi
+dmenu
+alacritty
+betterlockscreen
+picom
+xclip
+pulsemixer
+flameshot

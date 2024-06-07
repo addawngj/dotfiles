@@ -1,0 +1,7 @@
+/* Author: An Dang <addawngj@gmail.com> */
+
+/* Text Font */
+
+* {
+    font: "JetBrainsMono Nerd Font 10";
+}
